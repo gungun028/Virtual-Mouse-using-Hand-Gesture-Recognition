@@ -6,4 +6,5 @@ mouse system model uses the Media Pipe package to track hands and titles, and th
 - Instead of using more expensive sensorrs, a simple web camera can identify the gesture and perform the action.
 - It helps the user to interact with a computer without any physical and hardware device to control mouse operation.
 - We used different combinations of fingers to perform various operations of the mouse according to which particular combinations of fingers is recognized.
-- Easy to use and cost effective.# Virtual-Mouse-using-Hand-Gesture-Recognition
+- Easy to use and cost effective.
+- # Virtual-Mouse-using-Hand-Gesture-Recognition
